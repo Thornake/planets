@@ -1,1 +1,2 @@
-the planet is red
+The planet is red.
+It's the fourth planet.
